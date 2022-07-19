@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Federal University of Ceará
 - 🌱 I’m currently learning more about Full Stack Development and Data Sciences
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronan-soares)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronan-soares)
 
 ## Tech Stack
 
